@@ -11,5 +11,23 @@
   height: 83%;
   background-position: center;
   background-size: cover;
-  position: relative;
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: column;
+}
+
+.FooterThird .iconText {
+  margin: 17px;
+}
+.footerTitle {
+  font-size: 30;
+}
+.FooterThird {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
+.Performance ul {
+  display: flex;
+  justify-content: center;
 }
