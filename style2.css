@@ -1,0 +1,15 @@
+.thirdSection {
+  width: 100%;
+  height: 100%;
+}
+.thirdImage * {
+  color: white;
+}
+.thirdImage {
+  background-image: url("https://tesla-cdn.thron.com/delivery/public/image/tesla/1a5ba4b1-efd8-40bc-8b6d-e81bf8223e37/bvlatuR/std/2560x1440/Model-3-Performance-Hero-Desktop-LHD");
+  width: 100%;
+  height: 83%;
+  background-position: center;
+  background-size: cover;
+  position: relative;
+}
