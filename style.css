@@ -1,6 +1,8 @@
+* {
+  font-family: teslaFont;
+}
 .firstSection * {
   color: #f5f6f6;
-  font-family: teslaFont;
   font-size: 14;
   font-weight: 570;
 }
